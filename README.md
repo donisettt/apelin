@@ -1,3 +1,18 @@
+![login](https://github.com/user-attachments/assets/c16ec808-7f54-4249-ae14-cf191387b43c)
+![laporan](https://github.com/user-attachments/assets/f10f1e1e-88bf-46a3-80d6-179331aa74fa)
+![paket](https://github.com/user-attachments/assets/f8638c1e-e915-438a-86c8-323e16d5013d)
+![outlet](https://github.com/user-attachments/assets/ea0b21b0-6fd8-42f3-b5c0-2b29140b0b02)
+![user](https://github.com/user-attachments/assets/8c95ef3c-d742-4de7-8d3b-38588ed730d8)
+![tr detail](https://github.com/user-attachments/assets/9c0b412d-af30-4bf8-ab30-33c4b65befa6)
+![transaksi](https://github.com/user-attachments/assets/4c5c3888-fb91-484d-ae06-574831cfa15d)
+![member](https://github.com/user-attachments/assets/f0508c11-bb0b-4225-9236-4aa4141dcb23)
+![log](https://github.com/user-attachments/assets/5b89bb20-5a89-413b-b508-35f711567073)
+![ds admin](https://github.com/user-attachments/assets/44fc128e-a5ba-4267-a63e-dd12f1196dc0)
+
+# Aplikasi Pelayanan Laundry
+Aplikasi pelayanan laundry yang dibuat menggunakan laravel 9 dan template adminlte
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
